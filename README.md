@@ -35,5 +35,5 @@ All files in this repository were obtained from a **controlled Capture The Flag 
 ## ✍️ Writeup
 
 A detailed technical walkthrough for these challenges is published on Medium:  
-👉 **[Medium blog link will be added here]**
+👉 **https://medium.com/@chiakiichan/cloudsek-hiring-ctf-round-1-6th-december-2025-9f226a6a9a30**
 
