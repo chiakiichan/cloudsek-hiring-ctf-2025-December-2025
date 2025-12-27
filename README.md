@@ -7,7 +7,7 @@ The challenges focused on automation, unsafe input handling, and authentication 
 
 ## 📁 Repository Structure
 
-cloudsek-hiring-ctf-dec-2025/ <br> ├── Nitro/ <br> ├── Bad-Feedback/ <br> ├── Triangle/ <br> └── README.md
+cloudsek-hiring-ctf-dec-2025/ <br> ├── Bad-Feedback/ <br> ├── Nitro/ <br> ├── Triangle/ <br> └── README.md
 
 ## 🔐 Challenges
 
